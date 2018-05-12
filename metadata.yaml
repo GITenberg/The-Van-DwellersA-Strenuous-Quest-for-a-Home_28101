@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1076
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28101#The-Van-DwellersA-Strenuous-Quest-for-a-Home
 gutenberg_issued: '2009-02-17'
 gutenberg_type: Text
 identifiers:
