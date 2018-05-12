@@ -1,0 +1,30 @@
+_repo: The-Van-DwellersA-Strenuous-Quest-for-a-Home_28101
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28101-h/images/book_cover.jpg
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2009-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28101'
+  lccn: 03011490
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housing -- New York (State) -- New York -- Anecdotes'
+- !lcsh 'Apartment houses -- New York (State) -- New York -- Anecdotes'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Anecdotes'
+title: 'The Van Dwellers: A Strenuous Quest for a Home'
+url: http://www.gutenberg.org/ebooks/28101
